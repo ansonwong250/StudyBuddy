@@ -1,0 +1,12 @@
+python-engineio==4.2.1
+python-socketio
+urllib3==1.26.6
+websocket-client==1.2.1
+flask-socketio
+Flask==2.0.2
+Flask-Cors==3.0.10
+simple-websocket
+eventlet~=0.33.1
+dnspython==2.1.0
+pymongo==3.12.1
+python-decouple==3.5
